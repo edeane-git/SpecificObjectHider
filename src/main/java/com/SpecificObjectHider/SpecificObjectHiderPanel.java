@@ -1,4 +1,4 @@
-package com.SpecifcObjectHider;
+package com.SpecificObjectHider;
 
 import net.runelite.client.ui.ColorScheme;
 import net.runelite.client.ui.FontManager;

@@ -1,4 +1,4 @@
-package com.SpecifcObjectHider;
+package com.SpecificObjectHider;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

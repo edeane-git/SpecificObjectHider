@@ -1,4 +1,4 @@
-package com.SpecifcObjectHider;
+package com.SpecificObjectHider;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
